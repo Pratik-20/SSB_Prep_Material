@@ -27,7 +27,9 @@ Welcome to the SSB-Prep-Materials repository! This space is dedicated to providi
 6. **Interview Preparation Guidelines:**
    - Ace the personal interview and group tasks.
 
-## Contribution and Collaboration
+## Aspiring SSB Candidate
+
+!SSB Aspirant
 
 Feel free to explore the folders, contribute your own materials, and collaborate with fellow aspirants. Together, we'll march toward success! 💪
 
